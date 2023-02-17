@@ -1,0 +1,12 @@
+{
+    "facts": [
+        {
+            "id": 0,
+            "info": "Iguanas can stay underwater for 28 minutes"
+        },
+        {
+            "id": 1,
+            "info": "Iguanas can jump 6 feet in the air"
+        }
+    ]   
+}
