@@ -1,7 +1,25 @@
-let x = 0;
+dt = undefined;
+trychange();
 
-function trychange() {
+async function updatefacts() {
+    if (dt == undefined) {
+        dt = await fetchJSON('https://raw.githubusercontent.com/RicAlvesO/EngWeb2023/master/TPC1/data/facts.json');
+    }
+}
+
+async function fetchJSON(url) {
+    const response = await fetch(url);
+    return response.json();
+}
+
+async function trychange() {
+    await updatefacts();
     const collection = document.getElementsByClassName("quote");
-    collection[0].innerText= x.toString();
-    x++;
+    const i = getRandomInt(dt.total);
+    collection[0].innerText= "Random Fact #"+dt.facts[i].id+": "+dt.facts[i].info+"!";
+
+}
+
+function getRandomInt(max) {
+    return Math.floor(Math.random() * max);
 }

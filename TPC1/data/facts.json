@@ -2,11 +2,204 @@
     "facts": [
         {
             "id": 0,
-            "info": "Iguanas can stay underwater for 28 minutes"
+            "info": "Iguanas are herbivores and eat mainly fruits, flowers, and leaves"
         },
         {
             "id": 1,
-            "info": "Iguanas can jump 6 feet in the air"
+            "info": "There are over 40 species of iguanas, with the Green Iguana being the most common pet species"
+        },
+        {
+            "id": 2,
+            "info": "Iguanas can live up to 20 years in captivity"
+        },
+        {
+            "id": 3,
+            "info": "Iguanas are cold-blooded reptiles and require a warm environment to regulate their body temperature"
+        },
+        {
+            "id": 4,
+            "info": "The male iguana is called a 'bull' and the female is called a 'hen'"
+        },
+        {
+            "id": 5,
+            "info": "Iguanas have a third eye, called the parietal eye, on the top of their head that detects light and dark"
+        },
+        {
+            "id": 6,
+            "info": "Iguanas have strong jaws and sharp teeth, which they use to tear apart their food"
+        },
+        {
+            "id": 7,
+            "info": "The skin of an iguana is covered in small scales, which provide protection and help regulate their body temperature"
+        },
+        {
+            "id": 8,
+            "info": "Iguanas can change the color of their skin to better blend in with their surroundings or to communicate with other iguanas"
+        },
+        {
+            "id": 9,
+            "info": "Iguanas are excellent swimmers and can hold their breath for up to 30 minutes underwater"
+        },
+        {
+            "id": 10,
+            "info": "Iguanas are territorial and will defend their area against other iguanas, especially during mating season"
+        },
+        {
+            "id": 11,
+            "info": "Iguanas can run on their hind legs to escape predators"
+        },
+        {
+            "id": 12,
+            "info": "Iguanas have a specialized gland called the sublingual gland that secretes salt, allowing them to get rid of excess salt from their diet"
+        },
+        {
+            "id": 13,
+            "info": "The Green Iguana is the largest species of iguana, reaching up to 6 feet in length"
+        },
+        {
+            "id": 14,
+            "info": "Iguanas have a dewlap, a flap of skin under their chin, that they use to regulate their body temperature and to communicate with other iguanas"
+        },
+        {
+            "id": 15,
+            "info": "Iguanas are more active during the day and spend their nights sleeping in trees or on rocks"
+        },
+        {
+            "id": 16,
+            "info": "Iguanas are popular pets, but they require a lot of care and attention to stay healthy and happy"
+        },
+        {
+            "id": 17,
+            "info": "Iguanas have excellent eyesight and can detect movement from a long distance"
+        },
+        {
+            "id": 18,
+            "info": "Iguanas are able to regenerate their tails if they lose them to a predator or injury"
+        },
+        {
+            "id": 19,
+            "info": "Iguanas are not social animals and prefer to be alone, except during mating season"
+        },
+        {
+            "id": 20,
+            "info": "Iguanas have a unique digestive system that allows them to extract as much nutrition as possible from their food"
+        },
+        {
+            "id": 21,
+            "info": "Iguanas use their tails to help them balance when climbing and jumping"
+        },
+        {
+            "id": 22,
+            "info": "Iguanas are preyed upon by a variety of animals, including birds of prey, snakes, and wild cats"
+        },
+        {
+            "id": 23,
+            "info": "Iguanas are native to Central and South America, as well as some Caribbean islands"
+        },
+        {
+            "id": 24,
+            "info": "The spiny-tailed iguana has a tail covered in sharp spines that it uses to defend itself against predators"
+        },
+        {
+            "id": 25,
+            "info": "Iguanas have a special adaptation called the 'gular pump' that allows them to push air into their lungs when they swallow food"
+        },
+        {
+            "id": 26,
+            "info": "Iguanas have a unique way of communicating with other iguanas through head-bobbing and push-ups"
+        },
+        {
+            "id": 27,
+            "info": "Iguanas have long, sharp claws that help them climb and grip onto surfaces"
+        },
+        {
+            "id": 28,
+            "info": "Iguanas are diurnal animals, meaning they are most active during the day"
+        },
+        {
+            "id": 29,
+            "info": "Iguanas have a powerful tail that they can use as a whip to defend themselves against predators"
+        },
+        {
+            "id": 30,
+            "info": "Iguanas are able to detect changes in temperature, light, and sound through special sensory organs called 'saccules'"
+        },
+        {
+            "id": 31,
+            "info": "The rhinoceros iguana gets its name from the horn-like protrusions on its snout"
+        },
+        {
+            "id": 32,
+            "info": "Iguanas have a unique mating ritual that involves the male chasing and biting the female"
+        },
+        {
+            "id": 33,
+            "info": "Iguanas have a special adaptation in their intestines that allows them to extract water from their food, reducing their need for water"
+        },
+        {
+            "id": 34,
+            "info": "The iguana's scales are arranged in rings, which help protect its body from predators and environmental factors"
+        },
+        {
+            "id": 35,
+            "info": "Iguanas are able to sense changes in the Earth's magnetic field, which helps them navigate their environment"
+        },
+        {
+            "id": 36,
+            "info": "Iguanas have a specialized gland in their cloaca that releases a pheromone to attract mates"
+        },
+        {
+            "id": 37,
+            "info": "Iguanas are able to retract their eyes into their sockets for protection"
+        },
+        {
+            "id": 38,
+            "info": "Iguanas have a long, thin tongue that they use to sense their environment and locate food"
+        },
+        {
+            "id": 39,
+            "info": "The marine iguana is the only species of iguana that is able to swim in the ocean"
+        },
+        {
+            "id": 40,
+            "info": "Iguanas can fall up to 50 feet without being seriously injured due to their light weight and ability to land safely"
+        },
+        {
+            "id": 41,
+            "info": "Iguanas are cold-blooded animals, meaning their body temperature is regulated by their environment"
+        },
+        {
+            "id": 42,
+            "info": "Iguanas can live up to 20 years or more in the wild, and up to 30 years in captivity"
+        },
+        {
+            "id": 43,
+            "info": "Iguanas have been used in traditional medicine for centuries, with their meat, blood, and fat believed to have healing properties"
+        },
+        {
+            "id": 44,
+            "info": "Iguanas are social animals and can form strong bonds with their owners and other iguanas"
+        },
+        {
+            "id": 45,
+            "info": "Iguanas have a third 'parietal' eye on the top of their head, which is sensitive to light and helps regulate their sleep patterns"
+        },
+        {
+            "id": 46,
+            "info": "Iguanas have a specialized tongue that can detect different chemical compounds in the air, helping them locate food and avoid predators"
+        },
+        {
+            "id": 47,
+            "info": "Iguanas are able to change the color of their skin to blend in with their surroundings and regulate their body temperature"
+        },
+        {
+            "id": 48,
+            "info": "Iguanas have a complex hierarchy system, with dominant males competing for access to mates and resources"
+        },
+        {
+            "id": 49,
+            "info": "Iguanas are sometimes kept as pets, but require specialized care and can grow up to 6 feet in length"
         }
-    ]   
+    ],
+    "total": 50
 }
