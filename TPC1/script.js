@@ -16,7 +16,7 @@ async function trychange() {
     await updatefacts();
     const collection = document.getElementsByClassName("quote");
     const i = getRandomInt(dt.total);
-    collection[0].innerText= "Random Fact #"+dt.facts[i].id+": "+dt.facts[i].info+"!";
+    collection[0].innerText= "Random Fact #"+(dt.facts[i].id+1)+": "+dt.facts[i].info+"!";
 
 }
 
