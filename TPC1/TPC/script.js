@@ -3,7 +3,7 @@ trychange();
 
 async function updatefacts() {
     if (dt == undefined) {
-        dt = await fetchJSON('https://raw.githubusercontent.com/RicAlvesO/EngWeb2023/master/TPC1/data/facts.json');
+        dt = await fetchJSON('https://raw.githubusercontent.com/RicAlvesO/EngWeb2023/master/TPC1/TPC/data/facts.json');
     }
 }
 
