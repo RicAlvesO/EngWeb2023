@@ -128,6 +128,7 @@ for c in cidades:
     # End of the HTML page
     page+=f"""
     </ul>
+    <a href="/">Indice</a>
 </html>
 """
     with open(f"cidades/{c['id']}.html", "w") as f:
