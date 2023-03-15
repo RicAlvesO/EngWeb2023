@@ -1,0 +1,132 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ricardo Oliveira",
+      "occupation": "Student",
+      "email": "ricalves86@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Rita Vaz",
+      "occupation": "Student",
+      "email": "anarita02@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Millena Freitas",
+      "occupation": "Student",
+      "email": "freitasmillena27@gmail.com"
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "title": "TPC 1",
+      "description": "TPC 1 de EW",
+      "user": 1,
+      "due": "2023-3-1",
+      "finished": true,
+      "done": "2023-3-1"
+    },
+    {
+      "id": 2,
+      "title": "TPC 1",
+      "description": "TPC 1 de EW",
+      "user": 2,
+      "due": "2023-3-1",
+      "finished": true,
+      "done": "2023-3-1"
+    },
+    {
+      "id": 3,
+      "title": "TPC 1",
+      "description": "TPC 1 de EW",
+      "user": 3,
+      "due": "2023-3-1",
+      "finished": true,
+      "done": "2023-3-1"
+    },
+    {
+      "id": 4,
+      "title": "TPC 2",
+      "description": "TPC 2 de EW",
+      "user": 1,
+      "due": "2023-3-1",
+      "finished": true,
+      "done": "2023-3-1"
+    },
+    {
+      "id": 5,
+      "title": "TPC 2",
+      "description": "TPC 2 de EW",
+      "user": 2,
+      "due": "2023-3-1",
+      "finished": true,
+      "done": "2023-3-1"
+    },
+    {
+      "id": 6,
+      "title": "TPC 2",
+      "description": "TPC 2 de EW",
+      "user": 3,
+      "due": "2023-3-1",
+      "finished": true,
+      "done": "2023-3-1"
+    },
+    {
+      "id": 7,
+      "title": "TPC 3",
+      "description": "TPC 3 de EW",
+      "user": 1,
+      "due": "2023-3-1",
+      "finished": true,
+      "done": "2023-3-1"
+    },
+    {
+      "id": 8,
+      "title": "TPC 3",
+      "description": "TPC 3 de EW",
+      "user": 2,
+      "due": "2023-3-1",
+      "finished": true,
+      "done": "2023-3-1"
+    },
+    {
+      "id": 9,
+      "title": "TPC 3",
+      "description": "TPC 3 de EW",
+      "user": 3,
+      "due": "2023-3-10",
+      "finished": true,
+      "done": "2023-3-10"
+    },
+    {
+      "id": 10,
+      "title": "TPC 4",
+      "description": "TPC 4 de EW",
+      "user": 1,
+      "due": "2023-03-17",
+      "finished": false,
+      "done": ""
+    },
+    {
+      "id": 11,
+      "title": "TPC 4",
+      "description": "TPC 4 de EW",
+      "user": 2,
+      "due": "2023-03-17",
+      "finished": false,
+      "done": ""
+    },
+    {
+      "id": 12,
+      "title": "TPC 4",
+      "description": "TPC 4 de EW",
+      "user": 3,
+      "due": "2023-03-17",
+      "finished": false,
+      "done": ""
+    }
+  ]
+}

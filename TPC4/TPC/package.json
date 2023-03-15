@@ -1,0 +1,16 @@
+{
+  "name": "tpc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node app.js",
+    "db": "json-server --watch data/tasks.json"
+  },
+  "author": "Ricardo O.",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.3.4"
+  }
+}
